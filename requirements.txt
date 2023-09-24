@@ -3,6 +3,6 @@ matplotlib
 seaborn
 pandas
 numpy
-sklearn
+sklearn==0.0
 ipywidgets
 voila
